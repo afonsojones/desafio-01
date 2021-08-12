@@ -1,7 +1,6 @@
 body{
 	margin: 0;
 	padding: 0;
-	
 }
 
 main{
@@ -12,10 +11,8 @@ main{
 	margin-top: 100px;
 	padding: 5px;
 	display: flex;
-	justify-content: space-between;
-	
+	justify-content: space-between;	
 }
-
 
 .quad{
 	width: 150px;
@@ -28,7 +25,6 @@ main{
 	justify-content: center;
 	align-items: center;
 }
-
 
 .circ{
 	width: 150px;
