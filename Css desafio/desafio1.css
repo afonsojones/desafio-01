@@ -1,0 +1,50 @@
+body{
+	margin: 0;
+	padding: 0;
+	
+}
+
+main{
+	width: 500px;
+	height: 400px;
+	background-color: #009688;	
+	margin: 0 auto;
+	margin-top: 100px;
+	padding: 5px;
+	display: flex;
+	justify-content: space-between;
+	
+}
+
+
+.quad{
+	width: 150px;
+	height: 150px;
+	background-color: #BA68C8;
+	color: #000;
+	font-family: verdana, arial, cursive;
+	font-weight: bold;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+
+.circ{
+	width: 150px;
+	height: 150px;
+	background-color: #FFC107;
+	color: #000;
+	font-family: verdana, arial;
+	font-weight: bold;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-radius: 100%;
+	justify-content: center;
+    align-items: center;
+    margin-top: 250px;
+}
+
+
+
